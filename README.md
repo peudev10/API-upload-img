@@ -72,11 +72,6 @@ Esta API foi desenvolvida para possibilitar o upload de imagens com título e de
   - `id`: ID da imagem a ser deletada.
 - **Exemplo de Uso:** `/upload/1`
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
-
 ### 5. PUT /upload/:id
 
 - **Descrição:** Faz o upload do título e/ou da descrição de uma imagem específica com base no ID fornecido.
